@@ -1,2 +1,2 @@
 # simple-interest-calculator
-A simple bash script to calculate simple interest.
+This project is a simple command-line tool to calculate simple interest based on user-provided principal, rate, and time. Developed as the inaugural project for a micro-finance startup dedicated to empowering low-income individuals, it marks the first step in their migration from a legacy version control system (SVN) to Git. The repository is structured to follow open-source best practices, serving as a foundational example for future development.
